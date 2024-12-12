@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298546004313",
+    "project_id": "thewallsocials",
+    "storage_bucket": "thewallsocials.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298546004313:android:8344121bc40588542c0c48",
+        "android_client_info": {
+          "package_name": "com.example.thewallsocials"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxmJpZ6h7IqsnPkArJRw563QSQvojKZvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
